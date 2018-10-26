@@ -1,24 +1,24 @@
 4
-Scott
-Hometown: New Virginia, IA
-41.156537
--93.7107200
+Guillermo
+Best Vacation: Sydney, Australia
+-33.868820
+151.209290
 darkblue
-Scott
-Awesome city: Edinburgh, Scotland
-55.950190
--3.187550
+Azis
+Hometown: Bishkek, Kyrgyzstan
+42.869961
+74.569962
 lightgreen
-Emily
-Hometown: Pittsburgh, PA
-40.932850
--80.358543
-orange
-Emily
-Most Interesting Place: Reykjavik, Iceland
-64.147210
--21.942400
+Guillermo
+Home away from home: Ixmiquilpan, Hidalgo
+20.483540
+-99.219150
 red
+Guillermo
+Hometown: Carrollton, KY
+38.681030
+-85.180750
+yellow
 
 
 # NOTES:
